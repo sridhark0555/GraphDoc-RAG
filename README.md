@@ -1,5 +1,4 @@
-# GraphDoc-RAG
-A Graph-Based RAG engine using Neo4j &amp; Ollama for structured knowledge retrieval and context-aware Q&amp;A.
+# 📄 Document Buddy App
 
 ![Document Buddy App](sct.png)
 
@@ -133,6 +132,14 @@ git push origin feature/YourFeatureName
 ### 📄 License
 
 This project is licensed under the MIT License.
+
+### 📫 Contact
+
+•	Email: aianytime07@gmail.com ✉️
+
+Feel free to reach out for any queries, suggestions, or contributions. Your feedback is invaluable!
+
+© 2024 Document Buddy App by AI Anytime. All rights reserved. 🛡️
 
 ### 🔗 Useful Links
 
