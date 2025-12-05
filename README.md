@@ -43,11 +43,12 @@ document_buddy_app/
 
 Follow these instructions to set up and run the Document Buddy App on your local machine.
 
-### 1. Clone the Repository
+### 🛠️ Installation & Setup
 
+1. Clone the Repository**
 ```bash
-git clone https://github.com/AIAnytime/Document-Buddy-App.git
-cd Document-Buddy-App
+git clone [https://github.com/sridhark0555/GraphDoc-RAG.git](https://github.com/sridhark0555/GraphDoc-RAG.git)
+cd GraphDoc-RAG
 
 2. Create a Virtual Environment
 
