@@ -133,14 +133,6 @@ git push origin feature/YourFeatureName
 
 This project is licensed under the MIT License.
 
-### 📫 Contact
-
-•	Email: aianytime07@gmail.com ✉️
-
-Feel free to reach out for any queries, suggestions, or contributions. Your feedback is invaluable!
-
-© 2024 Document Buddy App by AI Anytime. All rights reserved. 🛡️
-
 ### 🔗 Useful Links
 
 
